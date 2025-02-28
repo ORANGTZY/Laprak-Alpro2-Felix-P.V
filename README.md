@@ -1,5 +1,5 @@
 # Laprak-Alpro2-Felix-P.V
-Laporan Praktikum Algoritma &amp; Pemrograman 2 - Felix Pedrosa V
+Laporan Praktikum Algoritma &amp; Pemrograman 2 - Felix Pedrosa V - IF-12-01
 
 <div align="center">
   <h1>🎓 Algorithm and Programming 2</h1>
